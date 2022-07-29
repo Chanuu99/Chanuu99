@@ -26,4 +26,4 @@
 
 #
 
-[![Chanudhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT20029586&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Chanudhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT20029586&theme=algolia)](https://github.com/it20029586/github-readme-stats)
