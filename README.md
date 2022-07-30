@@ -1,4 +1,4 @@
-### Hi there 👋 I am Chanudi Tharushika 😄 
+### Hi there 👋 I'm Chanudi Tharushika 😄 
 
 Currently I am an undergraduate at SLIIT who interested in learning new technologies<br>
 Hope to be a young entrepreneur in IT industry
