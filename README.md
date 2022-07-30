@@ -99,7 +99,7 @@ Hope to be a young entrepreneur in IT industry
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it20029586&langs_count=8&theme=github_dark)](https://github.com/Randula98/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it20029586&langs_count=8&theme=github_dark)](https://github.com/it20029586/github-readme-stats)
 
 
 ## 🔵<strong> Commitment on Github 🐱</strong>
