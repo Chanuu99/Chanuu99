@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Chanudi Tharushika 😄 
 
-#
+Currently I am an undergraduate at SLIIT who interested in learning new technologies<br>
+Hope to be a young entrepreneur in IT industry
+
+<!-- #
 
 - 🔭 I’m currently working on an Online Electronic Applicant Management System.<br>
 - 🌱 I’m currently learning MERN Stack.<br>
@@ -8,6 +11,7 @@
 - ⚡ Fun fact: I like to read a lot.
 
 #
+-->
 
 ## Overall !!:sunglasses:
 
