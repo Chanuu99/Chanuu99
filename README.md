@@ -31,7 +31,7 @@ Hope to be a young entrepreneur in IT industry
 
 #
 
-[![Chanudhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT20029586&theme=algolia)](https://github.com/it20029586/github-readme-stats)
+[![Chanudhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanuu99&theme=algolia)](https://github.com/Chanuu99/github-readme-stats)
 
 #
 
@@ -100,10 +100,10 @@ Hope to be a young entrepreneur in IT industry
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it20029586&langs_count=8&theme=github_dark)](https://github.com/it20029586/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanuu99&langs_count=8&theme=github_dark)](https://github.com/Chanuu99/github-readme-stats)
 
 
 ## 🔵<strong> Commitment on Github 🐱</strong>
 <br>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=it20029586&theme=algolia)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=Chanuu99&theme=algolia)
