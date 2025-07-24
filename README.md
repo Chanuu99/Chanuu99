@@ -1,8 +1,8 @@
 <h1>Hi there, I'm Chanudi Tharushika <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
-Currently I am an undergraduate at SLIIT who interested in learning new technologies<br>
-Hope to be a young entrepreneur in IT industry
+Academic Instructor at SLIIT who interested in learning new technologies<br>
+
 
 <!-- #
 
